@@ -12,7 +12,7 @@ body {
     align-items: center;
     min-height: 90vh;
     background-color: #948e8e;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), url('https://www.jowhareh.com/images/Jowhareh/galleries_4/large_369e815f-4b09-41ae-bca3-84c9703ffa20.webp'); /* تصویر پس‌زمینه */
+    background-image:linear-gradient(rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), url('./images/eiffel.webp'); /* تصویر پس‌زمینه */
     background-size: cover;
     background-position: center;
     direction: rtl;
