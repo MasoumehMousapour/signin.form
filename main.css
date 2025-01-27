@@ -1,0 +1,101 @@
+/* فایل CSS (styles.css) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background-color: #948e8e;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), url('https://www.jowhareh.com/images/Jowhareh/galleries_4/large_369e815f-4b09-41ae-bca3-84c9703ffa20.webp'); /* تصویر پس‌زمینه */
+    background-size: cover;
+    background-position: center;
+    direction: rtl;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container {
+    background: transparent;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(206, 202, 202, 0.8);
+    width: 350px;
+   
+}
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #6b6262;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    color:rgb(255, 251, 255);
+}
+
+.form-container label {
+    margin-bottom: 5px;
+    color: #6b6666;
+    font-size: 14px;
+}
+
+.form-container input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(247, 243, 243);
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: transparent;
+}
+
+.form-container button {
+    padding: 10px;
+    background-color: #976b95;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    
+    
+}
+
+.form-container button:hover {
+    background-color: #c7dfc8;
+    transform: translateY(3px);
+  
+}
+
+.form-container p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.form-container a {
+    color: #d3dfd3;
+    text-decoration: none;
+}
+
+.form-container a:hover {
+    text-decoration: underline;
+  
+}
+p{
+    color:#6b6262;
+}
