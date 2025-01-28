@@ -27,7 +27,7 @@ body {
 }
 
 .form-container {
-    background: rgba(red, green, blue, 108);
+    background: rgba(243, 240, 240, 0.8);
     padding: 20px 30px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(206, 202, 202, 0.8);
@@ -64,7 +64,7 @@ body {
 
 .form-container button {
     padding: 10px;
-    background-color: #976b95;
+    background-color: #b38bb0;
     color: white;
     font-size: 16px;
     border: none;
@@ -88,7 +88,7 @@ body {
 }
 
 .form-container a {
-    color: #d3dfd3;
+    color: #464b46;
     text-decoration: none;
 }
 
@@ -97,5 +97,5 @@ body {
   
 }
 p{
-    color:#6b6262;
+    color:#0f0e0e;
 }
