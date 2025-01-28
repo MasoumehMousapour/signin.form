@@ -27,7 +27,7 @@ body {
 }
 
 .form-container {
-    background: transparent;
+    background: rgba(red, green, blue, 108);
     padding: 20px 30px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(206, 202, 202, 0.8);
